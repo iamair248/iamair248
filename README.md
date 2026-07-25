@@ -82,11 +82,7 @@
 <img src="https://img.shields.io/badge/Pawjects-Open%20Source-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=iamair2408&label=Profile+Views&color=ff69b4&style=flat-square"/>
-
-<br><br>
+---
 
 ✨ *Code with passion. Learn with curiosity. Create with love.* ✨
 
